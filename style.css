@@ -1,0 +1,17 @@
+#Field{
+    width: 1000px;
+    height: 700px;
+    background: lavender;
+}
+
+
+.field {
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.ball {
+    background: coral;
+    position: absolute;
+    border-radius: 50%;
+}
